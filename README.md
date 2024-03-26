@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## 💬 Project
 
-### Metaveser
+  ### Metaverse
 
-### 3D Gallery
+  ### 3D Gallery
 
