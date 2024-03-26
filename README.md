@@ -1,5 +1,10 @@
 ## 👋 Welcome My Github
 
+* Jongwon Chung
+* 아주대학교
+* 정보컴퓨터공학부(학사)
+* badcats01@gmail.com
+
 <!--
 **endarque/endarque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
