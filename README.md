@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   * 화상 음성 채팅 기능
     <img width="1800" alt="스크린샷 2024-03-26 오후 1 40 24" src="https://github.com/endarque/endarque/assets/27399198/45a1614f-21e6-411f-a6c3-6159c6182938">
 
-
+<!--
   ### 3D Gallery
   krpano를 활용한 3d 웹 갤러리 플랫폼
   - 개발환경
@@ -77,3 +77,4 @@ Here are some ideas to get you started:
     
   * flipbook
     <img width="1800" alt="스크린샷 2024-03-26 오후 2 04 55" src="https://github.com/endarque/endarque/assets/27399198/a273b891-b2c3-4455-b7cd-469f76725f12">
+-->
